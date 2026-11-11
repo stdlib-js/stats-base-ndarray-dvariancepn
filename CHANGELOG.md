@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-24)
+## Unreleased (2026-11-11)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`9edc20e`](https://github.com/stdlib-js/stdlib/commit/9edc20e9f7a35010f4d3afad866ff80855f54e5d) - **feat:** add C implementation for `stats/base/ndarray/dvariancepn` [(#14792)](https://github.com/stdlib-js/stdlib/pull/14792) _(by Ujjwal Verma)_
 -   [`d54b9d2`](https://github.com/stdlib-js/stdlib/commit/d54b9d269d4bd6155e6087c4b62a468ddae67c8f) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`523702e`](https://github.com/stdlib-js/stdlib/commit/523702ee496d799a51ca3e1423e9ab9b4c39ad9a) - **docs:** update Markdown equation elements _(by stdlib-bot)_
@@ -39,9 +40,10 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 -   Prashant Kumar Yadav
 -   Prathamesh Kalshetti
 -   Ujjwal Verma
